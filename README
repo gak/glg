@@ -1,0 +1,12 @@
+Game Ladder Groper: An open-source clan ladder
+
+http://gpg.slowchop.com/
+
+If you do not know PHP, GLG is not for you! Sorry!
+
+The code is currently unusable as is!
+It needs to be tweaked to get going.
+There are hard-coded values throughout that requires changing to your own needs... Do a search on slowchop and ausource.
+You also need to make your own graphics.
+There is a file containing the SQL to set up the database table.
+The rest is up to you :)
